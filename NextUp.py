@@ -74,9 +74,9 @@ def reorder_playlist(sp, song_ids):
 # This if/else makes sure all the Spotify data (id, secret, uri) are inputted
 # Note that it is assumed you are inputting a username, playlist, and a list of track_ids
 # HACK
-username = "diegofinni"
-playlist = "5I2gsRzfIUSMuxaTzXxEun"
-track_ids = ["6RUKPb4LETWmmr3iAEQktW"]
+username = ""
+playlist = ""
+track_ids = [""]
 # HACK
 
 scope = 'playlist-modify-public'
